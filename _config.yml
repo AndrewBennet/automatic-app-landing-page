@@ -34,10 +34,7 @@ stackoverflow_username                    : 5513562/andrew-bennet
 faqs:
 
   - title: Is it free?
-    description: "Reading List is free to use, has no ads and keeps your data private. Some specific features require a one-time payment to unlock Reading List Pro; charging for these features helps support the development of the app."
-
-  - title: How often do I need to pay for Reading List Pro?
-    description: "Just once! Reading List Pro is a one-time payment to unlock certain features indefinitely."
+    description: "Reading List is free to use, has no ads and keeps your data private. Some specific features require a payment to unlock Reading List Pro; charging for these features helps support the development of the app."
     
   - title: Do I need to pay for Pro on each of my devices?
     description: "No: if you purchase Reading List Pro it will be available on all of your devices logged in to your iCloud account."
@@ -62,11 +59,8 @@ faqs:
 
     If the book cannot be found even when performing a general search, it may be that Google Books does not know about the book. In this case, the book metadata may have to be entered manually into the app."
 
-  - title: Can I record re-reads of a book?
-    description: "Unfortunately not – this a current limitation. In future, you will be able to record multiple reading log entries for each book."
-
-  - title: How do I add a Widget to my iPhone homescreen?
-    description: "If you are running iOS 14 or later, you can add a widget showing your current or recently finished books to your homescreen. Make sure you have the latest version of Reading List installed, and follow <a href='https://support.apple.com/en-gb/guide/iphone/iphb8f1bf206/ios'>the instructions</a> Apple provides to learn how to do so."
+  - title: How do I add a Widget to my iPhone homescreen or lockscreen?
+    description: "Make sure you have the latest version of Reading List installed, and follow Apple's instructions on how to add widgets to your <a href='https://support.apple.com/en-gb/guide/iphone/iphb8f1bf206/ios'>homescreen</a> or <a href='https://support.apple.com/en-gb/guide/iphone/iph4d0e6c351/16.0/ios/16.0'>lockscreen</a>."
 
   - title: How do I change the sort order of my books?
     description: "When viewing any list of books, you will see a little up-and-down-arrows icon in the top right of the list. Tap this button to choose a different sort order."
