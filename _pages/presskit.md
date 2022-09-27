@@ -29,50 +29,25 @@ Reading List has been a free app since 2017, and has a growing and passionate us
 **Twitter**: [@AndrewBennet](https://twitter.com/AndrewBennet)  
 **Email**: [feedback@readinglist.app](mailto:feedback@readinglist.app)  
 
-## Version 2.0
-
-Version 2.0 is Reading List's biggest update yet, released on Wednesday 7th April 2021. New features include:
-
-- **iCloud Sync**  
-When enabled, changes made on one device will be propagated to other devices in real-time using iCloud, keeping all devices seamlessly in sync. The iCloud sync functionality has been written from scratch to achieve efficient, reliable and high-speed synchronisation.
-
-- **New Look**  
-Reading List has a new app icon, designed by [Michael Flarup](http://flarup.co/). The icon combines the checkmark motif typical for progress tracking with a book image, to produce a smart and eye-catching icon. The app has also had a UI refresh, with many of the screens being redesigned.
-
-- **Customise Appearance**  
-Alternative app icons and theme overrides, for more control over how Reading List looks.
-
-- **Multiple Windows**  
-Support for multiple windows on iPadOS, for more powerful library management on iPad.
-
-- **Improved List Management**
-An improved and redesigned screen for management of custom book lists.
-
-- **Reading List Pro**  
-Introduces a one-time purchase to unlock certain Pro features. All functionality prior to v2.0 will remain free, without limits.
-
-- **And more...**  
-Version 2.0 features many improvements and fixes throughout the app.
-
 ## Features
 
 - Lookup books by scanning their barcode
 - Find books by searching online
 - Full manual metadata control
-- Record start and finish dates for books you've read
+- Record start and finish dates each time you read a book
 - Plan what to read next by ordering your To Read books
 - Create custom lists of books
 - Record current page number and see progress visually
 - Add rating and notes to your books
 - Export / import your data to / from CSV for full control
 - Nightly iCloud backup to keep your data safe
-- Realtime iCloud sync across different devices (requires Pro)
+- Realtime iCloud sync across different devices
 - Conveneient swipe actions and shortcuts, for fast management of your books
-- Supports widgets, to show your books on your homescreen
+- Supports widgets, to show your books on your homescreen and lockscreen
 
 ## Loved by Users
 
-Reading List has been exceptionally well received by its users. It is the highest-rated reading tracking app in the App Store, with a 4.8 rating from over 20,000 ratings and reviews.
+Reading List has been exceptionally well received by its users. It is the highest-rated reading tracking app in the App Store, with a 4.8 rating from over 30,000 ratings and reviews.
 
 ## Pricing
 
