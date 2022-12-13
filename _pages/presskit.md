@@ -63,9 +63,9 @@ For full set of images, download the [Press Kit](../assets/ReadingList_PressKit.
 <img class="presskit-app-icon" src="../assets/AppIcon_Rounded.png" width="300" />
 
 
-<img class="presskit-screenshot" src="../assets/PressKit/Screenshots/iPhone/Framed/iPhone_0_ToReadList_framed.png" width="300" />
-<img class="presskit-screenshot" src="../assets/PressKit/Screenshots/iPhone/Framed/iPhone_1_BookDetails_framed.png" width="300" />
-<img class="presskit-screenshot" src="../assets/PressKit/Screenshots/iPhone/Framed/iPhone_3_SearchFinished_framed.png" width="300" />
+<img class="presskit-screenshot" src="../assets/PressKit/Screenshots/iPhone/Framed/iPhone 13 Pro-0_ToReadList_framed.png" width="300" />
+<img class="presskit-screenshot" src="../assets/PressKit/Screenshots/iPhone/Framed/iPhone 13 Pro-1_BookDetails_framed.png" width="300" />
+<img class="presskit-screenshot" src="../assets/PressKit/Screenshots/iPhone/Framed/iPhone 13 Pro-2_Stats_framed.png" width="300" />
 
-<img class="presskit-ipad-screenshot" src="../assets/PressKit/Screenshots/iPad/Framed/iPad_0_ToReadList_framed.png" width="900" />
-<img class="presskit-ipad-screenshot" src="../assets/PressKit/Screenshots/iPad/Framed/iPad_2_ScanBarcode_framed.png" width="900" />
+<img class="presskit-ipad-screenshot" src="../assets/PressKit/Screenshots/iPad/Framed/iPad Pro (12.9-inch) (3rd generation)-0_ToReadList_framed" width="900" />
+<img class="presskit-ipad-screenshot" src="../assets/PressKit/Screenshots/iPad/Framed/iPad Pro (12.9-inch) (3rd generation)-3_ScanBarcode_framed.png" width="900" />
