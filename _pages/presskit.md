@@ -35,6 +35,8 @@ Reading List was first released in 2017 and has been growing its passionate user
 - Find books by searching online
 - Full manual metadata control
 - Record start and finish dates each time you read a book
+- Log multiple reads of any book
+- Dates can be logged with month or year precision
 - Plan what to read next by ordering your To Read books
 - View statistics about your reading progress
 - Create custom lists of books
