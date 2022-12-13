@@ -69,7 +69,7 @@ faqs:
     description: "Reading List automatically backs up your data to iCloud on a daily basis. So if you lose or replace your device, you'll be prompted to restore your data on the new device. The backup frequency can be configured at Settings > Backup & Restore."
     
   - title: Is there an Android version?
-    description: "Unfortunately, there are no plans to develop an Android version of Reading List: the app is only available on iPhone and iPad."
+    description: "Unfortunately, there are no plans to develop an Android version of Reading List: the app is only available on iPhone, iPad and macOS."
 
 #  - title: How Can I Copy My Books From My Previous System?
 #    description: "If you've been using some other app or system to catalog your books, you might want to import your historical reading into Reading List. To do this, you'll need to generate a CSV spreadsheet of your book data. "
