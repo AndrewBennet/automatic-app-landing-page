@@ -379,9 +379,9 @@ nav > ul li a:active {
 
 .iphonePreview {
 	grid-area: p;
-	//background-image: url($device-color);
-	width: 400px;
-	//background-repeat: no-repeat;
+	background-image: url($device-color);
+	background-size: 400px auto;
+	background-repeat: no-repeat;
 	margin-top: 68px;
 }
 
@@ -410,7 +410,7 @@ nav > ul li a:active {
 @media only screen and (max-width: 1070px) {
 
 	.iphonePreview {
-		width: 400px;
+		background-size: 370px auto;
 	}
 
 	.iphoneScreen {
@@ -437,7 +437,7 @@ nav > ul li a:active {
 
 	.iphonePreview {
 		display: flex;
-		width: 400px;
+		background-size: 260px auto;
 		background-position: center 0;
 		margin-top: 47px;
 		justify-content: center;
