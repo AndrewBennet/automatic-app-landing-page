@@ -6,7 +6,8 @@ include_in_header: true
 
 # Press Kit
 
-Download the full [Press Kit](../assets/ReadingList_PressKit.zip), containing high resolution app images and screenshots (35MB).
+Download the full [Press Kit](../assets/ReadingList_PressKit.zip), 
+containing high resolution app images and screenshots (41MB).
 
 ## About Reading List
 
@@ -45,12 +46,13 @@ Reading List was first released in 2017 and has been growing its passionate user
 - Export / import your data to / from CSV for full control
 - Nightly iCloud backup to keep your data safe
 - Realtime iCloud sync across different devices
-- Conveneient swipe actions and shortcuts, for fast management of your books
+- Convenient swipe actions and shortcuts, for fast management of your books
 - Supports widgets, to show your books on your homescreen and lockscreen
 
 ## Loved by Users
 
-Reading List has been exceptionally well received by its users. It is the highest-rated reading tracking app in the App Store, with a 4.8 rating from over 32,000 ratings and reviews.
+Reading List has been exceptionally well received by its users. It is the 
+highest-rated reading tracking app in the App Store, with a 4.8 rating from over 34,000 ratings and reviews.
 
 ## Pricing
 
