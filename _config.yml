@@ -45,6 +45,15 @@ faqs:
   - title: Can you see my data?
     description: "Nope! Your book data stays on your own device, and in your private iCloud account (if Backup or Sync is configured) – user book data is hidden from me and from anyone else."
 
+  - title: Can I sync my Audible or Kindle reading?
+    description: "Unfortunately it is not possible to automatically sync your reading info from Audible or Kindle, due to technical limitations."
+
+  - title: Why isn't data synced between my devices?
+    description: "In order to have data sync between all of your devices, you need to unlock Reading List Pro, and to enable iCloud Sync on each device via the toggle in Settings -> iCloud Sync."
+
+  - title: I got a new device – how can I restore my data?
+    description: "If you had iCloud sync enabled on your previous device, you can enable it on the new one to restore your data. Alternatively, check in Settings -> Backup & Restore for an iCloud backup to restore from."
+
   - title: How is it different from Goodreads?
     description: "Goodreads is a useful app, but there few negatives when using it as a reading journal:<ul>
     <li>It requires continuous internet connectivity to use. If offline (for example if on a plane or subway), it can't be used.</li>
