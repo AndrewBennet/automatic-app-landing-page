@@ -37,6 +37,7 @@ Reading List was first released in 2017 and has been growing its passionate user
 - Full manual metadata control
 - Record start and finish dates each time you read a book
 - Log multiple reads of any book
+- Log reading pauses, and mark abandoned books as Not Finished
 - Dates can be logged with month or year precision
 - Plan what to read next by ordering your To Read books
 - View statistics about your reading progress
@@ -52,7 +53,7 @@ Reading List was first released in 2017 and has been growing its passionate user
 ## Loved by Users
 
 Reading List has been exceptionally well received by its users. It is the 
-highest-rated reading tracking app in the App Store, with a 4.8 rating from over 34,000 ratings and reviews.
+highest-rated reading tracking app in the App Store, with a 4.8 rating from over 39,000 ratings and reviews.
 
 ## Pricing
 
